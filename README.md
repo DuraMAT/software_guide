@@ -18,13 +18,13 @@ To help you share software products effectively, including:
 ## Levels of dissemination 
 The level of dissemination should depend on the purpose of the software
 
-<img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/levels.png" width="500"/>
+<img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/levels.png" width="700"/>
 
 
 
 ### Level 1
 
-<img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/level1.png" width="500"/>
+<img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/level1.svg" width="700"/>
 
 
 ### Level 2
