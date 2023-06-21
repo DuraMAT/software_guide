@@ -2,7 +2,6 @@
 
 #  Guidelines for the open-source software development
 
-Table of content
 
 <!-- TOC tocDepth:2..3 chapterDepth:2..6 -->
 
