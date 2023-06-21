@@ -144,3 +144,36 @@ Report your software to your funding program so it can be included in accomplish
 
 
 ## Level 3: 
+
+### 3.1 All Level 1 items
+
+### 3.2 All Level 2 items
+
+### 3.3 Implement a release system
+One option is to use Github tags and releases. You can obtain a DOI for each release via Zenodo:
+-Link the Github repo to Zenodo
+-Perform the release and tag it
+-Update the README to include the DOI identifier Zenodo provides in the “how to cite” section
+
+### 3.4 Set up continuous integration (CI) tools 
+Examples include Github actions to execute CircleCI, Travis CI, etc. against pull requests.
+
+A code coverage tool (e.g. coveralls) can help establish that tests cover the entire codebase and publish test status (pass/fail, test coverage)
+
+### 3.5 Check for consistent code formatting
+A format checker (e.g., pylint or Python black) can be used to check the formatting of pull requests and/or automatically reformat code
+
+### 3.6 Add Documentation pages
+Documents can be deployed at several places (e.g., Github pages, readthedocs). Documentation pages should provide:
+- Getting started. Provide simple instructions to install the code and run a sample problem. Links here to Tutorials.
+- Examples / Tutorials. Links here to illustrations of using the code.
+- API reference. Links here to the documentation of each public Class, function and/or method. Note that this can typically be auto-generated.
+- Release notes. Links here to logs of changes with each tagged release.
+
+
+### 3.7
+
+### 3.8 Submit to a code-centric journal (optional)
+Consider submitting to a code-centric journal publication such as [Journal of Open Source Software](https://joss.theoj.org/)
+
+<img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/journal.png" width="300"/>
