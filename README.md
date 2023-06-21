@@ -128,9 +128,10 @@ Example of license:
 (*https://github.com/NREL/PV_ICE/blob/main/LICENSE.md*)
 
 
-## Level 2: Repository used for lifetime of a project 
+## Level 2: Repository to support an entire project
+Typically, may serve as documentation for the innovations of an entire project, e.g., for multiple publications. However, the project may no longer be actively maintained after project end.
 
-To do list for Level 2:
+To build up Level 2 repository:
 <!-- TOC tocDepth:2..3 chapterDepth:2..6 -->
 - [2.1 All Level 1 items](#21-all-level-1-items)
 - [2.2 Ensure that DOE requirements are being met](#22-ensure-that-doe-requirements-are-being-met)
@@ -162,6 +163,7 @@ This could be hosted by the project organization, by your institution, or by you
 - Funding information and institutional branding (logo, funding acknowledgement text)
 
 ### 2.5 Add Contributor license agreement (CLA)
+A CLA defines the terms under which intellectual property has been contributed to a company/project.
 
 Example of CLA (the bottom of the LBL BSD-3 license):
 >You are under no obligation whatsoever to provide any bug fixes, patches, or upgrades to the features, functionality or performance of the source code ("Enhancements") to anyone; however, if you choose to make your Enhancements available either publicly, or directly to Lawrence Berkeley National Laboratory or its contributors, without imposing a separate written license agreement for such Enhancements, then you hereby grant the following license: a non-exclusive, royalty-free perpetual license to install, use, modify, prepare derivative works, incorporate into other computer software, distribute, and sublicense such enhancements or derivative works thereof, in binary and source code form.
@@ -175,7 +177,7 @@ You can look up standard project layouts for the programming language you are us
 <img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/layout.png" width="300"/>
 
 ### 2.7 Add a consistent versioning scheme
-Examples include semantic versioning (v0.0.1) and date-based versioning (v2023.01.25); tools like versioneer may help.
+Examples include semantic versioning (v0.0.1) and date-based versioning (v2023.01.25); tools like [versioneer](https://pypi.org/project/versioneer/0.10/) may help.
 
 ### 2.8 Ensure your software is easy to install locally
 Ensure your software is easy to install locally, including any necessary dependencies. For example, Python projects may include files such as setup.py or requirements.txt.
@@ -190,9 +192,10 @@ Report your software to your funding program so it can be included in accomplish
 
 
 
-## Level 3: 
+## Level 3: Repository for long-term projects
+The project is intended to be used and maintained **long-term** by the project team and a community of users; project lives on even if/when initial developers exit the project
 
-To do list for Level 3:
+To build a Level 3 repository:
 <!-- TOC tocDepth:2..3 chapterDepth:2..6 -->
 - [3.1 All Level 1 items](#31-all-level-1-items)
 - [3.2 All Level 2 items](#32-all-level-2-items)
@@ -210,10 +213,10 @@ To do list for Level 3:
 ### 3.2 All Level 2 items
 
 ### 3.3 Implement a release system
-One option is to use Github tags and releases. You can obtain a DOI for each release via Zenodo:
--Link the Github repo to Zenodo
--Perform the release and tag it
--Update the README to include the DOI identifier Zenodo provides in the “how to cite” section
+One option is to use Github tags and releases. You can obtain a digital object identifier (DOI) for each release via [Zenodo](https://zenodo.org/):
+- Link the Github repo to Zenodo
+- Perform the release and tag it
+- Update the README to include the DOI identifier Zenodo provides in the “how to cite” section
 
 ### 3.4 Set up continuous integration (CI) tools 
 Examples include Github actions to execute CircleCI, Travis CI, etc. against pull requests.
@@ -223,10 +226,10 @@ A code coverage tool (e.g. coveralls) can help establish that tests cover the en
 <img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/pvlib.png" width="600"/>
 
 ### 3.5 Check for consistent code formatting
-A format checker (e.g., pylint or Python black) can be used to check the formatting of pull requests and/or automatically reformat code
+A format checker (e.g., [pylint](https://pypi.org/project/pylint/) or [Python black](https://pypi.org/project/black/)) can be used to check the formatting of pull requests and/or automatically reformat code
 
 ### 3.6 Add Documentation pages
-Documents can be deployed at several places (e.g., Github pages, readthedocs). Documentation pages should provide:
+Documents can be deployed at several places (e.g., [Github pages](https://pages.github.com/), [Jupyter books](https://jupyterbook.org/en/stable/intro.html), [readthedocs](https://readthedocs.org/)). Documentation pages should provide:
 - Getting started. Provide simple instructions to install the code and run a sample problem. Links here to Tutorials.
 - Examples / Tutorials. Links here to illustrations of using the code.
 - API reference. Links here to the documentation of each public Class, function and/or method. Note that this can typically be auto-generated.
