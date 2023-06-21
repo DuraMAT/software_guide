@@ -160,6 +160,8 @@ Examples include Github actions to execute CircleCI, Travis CI, etc. against pul
 
 A code coverage tool (e.g. coveralls) can help establish that tests cover the entire codebase and publish test status (pass/fail, test coverage)
 
+<img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/pvlib.png" width="600"/>
+
 ### 3.5 Check for consistent code formatting
 A format checker (e.g., pylint or Python black) can be used to check the formatting of pull requests and/or automatically reformat code
 
@@ -186,6 +188,6 @@ Example of [pvlib on JOSS](https://joss.theoj.org/papers/10.21105/joss.00884):
 
 Reviews can be done via Github repo:
 
-<img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/git_review.png" width="700"/>
+<img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/git_review.png" width="500"/>
 
 
