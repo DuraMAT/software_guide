@@ -77,7 +77,7 @@ Example of inline code documentation:
 
 Example of license: 
 
-> <font size= 1>BSD 3-Clause License</font>
+> <font size= 1> BSD 3-Clause License
 > 
 > Copyright 2020-2023 Alliance for Sustainable Energy, LLC
 > 
@@ -89,9 +89,7 @@ Example of license:
 > 
 > The name of the copyright holder, contributors, the United States Government, the United States Department of Energy, or any of their employees may not be used to endorse or promote products derived from this software without specific prior written permission.
 > 
-> THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER, CONTRIBUTORS, UNITED STATES GOVERNMENT OR UNITED STATES DEPARTMENT OF ENERGY, NOR ANY OF THEIR EMPLOYEES, BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-
+> THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER, CONTRIBUTORS, UNITED STATES GOVERNMENT OR UNITED STATES DEPARTMENT OF ENERGY, NOR ANY OF THEIR EMPLOYEES, BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </font>
 
 (*https://github.com/NREL/PV_ICE/blob/main/LICENSE.md*)
 
@@ -100,7 +98,10 @@ Example of license:
 
 ### 2.1 All Level 1 items
 
-### 2.2 
+### 2.2 Ensure that DOE requirements are being met
+In addition to lab-specific guidelines, ensure that DOE requirements are being met. For example, this likely includes:
+- Software Record (gets recorded in [OSTI.gov](https://www.osti.gov/) and helps in reporting purposes / credit)
+- Lab-specific approval to release code
 
 ### 2.3 Set up a public facing Github repository
 This could be hosted by the project organization, by your institution, or by your research lab. Examples include:
@@ -114,9 +115,19 @@ This could be hosted by the project organization, by your institution, or by you
 - Funding information and institutional branding (logo, funding acknowledgement text)
 
 ### 2.5 Add Contributor license agreement (CLA)
-for contributors
+
+Example of CLA (the bottom of the LBL BSD-3 license):
+>You are under no obligation whatsoever to provide any bug fixes, patches, or upgrades to the features, functionality or performance of the source code ("Enhancements") to anyone; however, if you choose to make your Enhancements available either publicly, or directly to Lawrence Berkeley National Laboratory or its contributors, without imposing a separate written license agreement for such Enhancements, then you hereby grant the following license: a non-exclusive, royalty-free perpetual license to install, use, modify, prepare derivative works, incorporate into other computer software, distribute, and sublicense such enhancements or derivative works thereof, in binary and source code form.
+
+(*https://spdx.org/licenses/BSD-3-Clause-LBNL.html*)
+
 
 ### 2.5 Use a standard layout for the repository 
+You can look up standard project layouts for the programming language you are using
+
+Some details of the layout may depend on the tools you are using for other tasks such as code distribution or continuous integration
+
+<img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/layout.png" width="700"/>
 
 ### 2.5 Add a consistent versioning scheme
 
