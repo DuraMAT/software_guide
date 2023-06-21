@@ -22,11 +22,7 @@ The level of dissemination should depend on the purpose of the software
 
 
 
-
-
 ## Level 1: 
-
-<img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/level1.svg" width="700"/>
 
 To do list for Level 1:
 <!-- TOC tocDepth:2..3 chapterDepth:2..6 -->
@@ -43,7 +39,18 @@ To do list for Level 1:
 Follow Laboratory-specific guidelines for approval to release your code
 
 ### 1.2 Inline code documentation
-Example
+Example of inline code documentation 
+<img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/inline_example.png" width="700"/>
+
+
+Some notes:
+
+ - The formatting of the docstring can depend on if you are autoconverting the docstrings to HTML documentation
+
+ - Common formatting examples include reST (restructured text), Google formatting, epyDoc, etc.
+
+ - You can add type hinting to further help in code readability as well as the ability to use static type checking  tools
+
 
 
 ### 1.3 Add README
@@ -53,9 +60,6 @@ Example
 
 ## Level 2: Repository used for lifetime of a project 
 
-<img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/level2.svg" width="700"/>
 
 
 ## Level 3: 
-
-<img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/level3.svg" width="700"/>
