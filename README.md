@@ -54,7 +54,7 @@ Example of inline code documentation
 
 ### 1.3 Add README
 
-<img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/readme_example.svg" width="700"/>
+<img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/readme_example.png" width="900"/>
 
 
 ### 1.4 Add LICENSE
