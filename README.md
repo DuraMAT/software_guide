@@ -28,6 +28,16 @@ The level of dissemination should depend on the purpose of the software
 
 <img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/level1.svg" width="700"/>
 
+To do list for Level 1:
+<!-- TOC tocDepth:2..3 chapterDepth:2..6 -->
+
+ - [1.1 Approval for code release](#11-approval-for-code-release)
+ - [1.2 Inline code documentation](#12-inline-code-documentation)
+ - [1.3 Add README](#13-add-readme)
+ - [1.4 Add LICENSE](#14-add-license)
+
+<!-- /TOC -->
+
 
 ### 1.1 Approval for code release 
 Follow Laboratory-specific guidelines for approval to release your code
