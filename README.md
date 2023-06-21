@@ -95,6 +95,34 @@ Example of license:
 
 ## Level 2: Repository used for lifetime of a project 
 
+### 2.1 All Level 1 items
+
+### 2.2 
+
+### 2.3 Set up a public facing Github repository
+This could be hosted by the project organization, by your institution, or by your research lab. Examples include:
+- github.com/DURAMAT
+- github.com/NREL
+
+
+### 2.4 Additional README components
+- Screenshot or visual aid of the project
+- Current status of the project (testing use, production use, actively maintained, etc.)
+- Funding information and institutional branding (logo, funding acknowledgement text)
+
+### 2.5 Add Contributor license agreement (CLA)
+for contributors
+
+### 2.5 Use a standard layout for the repository 
+
+### 2.5 Add a consistent versioning scheme
+
+### 2.5 Ensure your software is easy to install locally
+
+### 2.5 Report your software to your funding
+Report your software to your funding program so it can be included in accomplishments
+
+
 
 
 ## Level 3: 
