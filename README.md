@@ -219,9 +219,9 @@ One option is to use Github tags and releases. You can obtain a digital object i
 - Update the README to include the DOI identifier Zenodo provides in the “how to cite” section
 
 ### 3.4 Set up continuous integration (CI) tools 
-Examples include Github actions to execute CircleCI, Travis CI, etc. against pull requests.
+Continuous integration (CI) is a software practice that requires frequently committing code to a shared repository. Examples include Github actions to execute [CircleCI](https://circleci.com/), [Travis CI](https://www.travis-ci.com/), etc. against pull requests.
 
-A code coverage tool (e.g. coveralls) can help establish that tests cover the entire codebase and publish test status (pass/fail, test coverage)
+A code coverage tool (e.g. [coveralls](https://coveralls.io/)) can help establish that tests cover the entire codebase and publish test status (pass/fail, test coverage)
 
 <img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/pvlib.png" width="600"/>
 
@@ -236,7 +236,7 @@ Documents can be deployed at several places (e.g., [Github pages](https://pages.
 - Release notes. Links here to logs of changes with each tagged release.
 
 ### 3.7 Release large data sets with code
-- Data sets should be formally released into a separate archival repository (project-specific data hub (e.g., [DuraMat Data Hub](https://datahub.duramat.org/)), Figshare, Dryad, etc.).
+- Data sets should be formally released into a separate archival repository (project-specific data hub (e.g., [DuraMat Data Hub](https://datahub.duramat.org/)), [Figshare](https://figshare.com/), [Dryad](https://datadryad.org/stash), etc.).
 
 
 - If there are smaller files that are needed for the code, for example for unit tests, document and include these datasets in the repository, provided they have been cleared for release and are not infringing copyright from other sources or NDAs.
@@ -247,7 +247,7 @@ Documents can be deployed at several places (e.g., [Github pages](https://pages.
 ### 3.8 Upload to other code services
 Upload to PyPI, Conda, or other easy install code service.
 
-<img src="https://pypi.org/static/images/logo-large.9f732b5f.svg" width="100"/>  
+<img src="https://pypi.org/static/images/logo-large.9f732b5f.svg" width="100"/>(https://pypi.org/)
 <img src="https://docs.conda.io/en/latest/_images/conda_logo.svg" width="150"/>
 
 ### 3.9 Submit to a code-centric journal (optional)
