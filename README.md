@@ -171,9 +171,13 @@ Documents can be deployed at several places (e.g., Github pages, readthedocs). D
 - Release notes. Links here to logs of changes with each tagged release.
 
 
-### 3.7
+### 3.7 Upload to other code services
+Upload to PyPI, Conda, or other easy install code service.
+
+<img src="https://pypi.org/static/images/logo-large.9f732b5f.svg" width="60"/>  
+<img src="https://docs.conda.io/en/latest/_images/conda_logo.svg" width="100"/>
 
 ### 3.8 Submit to a code-centric journal (optional)
-Consider submitting to a code-centric journal publication such as [Journal of Open Source Software](https://joss.theoj.org/)
+Consider submitting to a code-centric journal publication such as [Journal of Open Source Software](https://joss.theoj.org/).
 
 <img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/journal.png" width="300"/>
