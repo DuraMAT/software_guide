@@ -58,9 +58,10 @@ The level of dissemination should depend on the purpose of the software
 
 
 
-## Level 1: 
+## Level 1: Basic repository to support a document
+Typically, Level 1 repository is used to support and document published analyses for enhanced reproducibility – e.g., something akin to supporting information for a journal publication.
 
-To do list for Level 1:
+To build up Level 1 repository:
 <!-- TOC tocDepth:2..3 chapterDepth:2..6 -->
 - [1.1 Approval for code release](#11-approval-for-code-release)
 - [1.2 Inline code documentation](#12-inline-code-documentation)
@@ -68,10 +69,10 @@ To do list for Level 1:
 - [1.4 Add LICENSE](#14-add-license)
 <!-- /TOC -->
 
-### 1.1 Approval for code release 
+### 1.1 Get approval for code release 
 Follow Laboratory-specific guidelines for approval to release your code
 
-### 1.2 Inline code documentation
+### 1.2 Add inline code documentation
 
 Some notes:
 
