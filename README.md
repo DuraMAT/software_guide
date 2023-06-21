@@ -52,8 +52,10 @@ Example of inline code documentation
  - You can add type hinting to further help in code readability as well as the ability to use static type checking  tools
 
 
-
 ### 1.3 Add README
+
+<img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/readme_example.png" width="700"/>
+
 
 ### 1.4 Add LICENSE
 
