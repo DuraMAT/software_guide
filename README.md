@@ -125,7 +125,11 @@ Example of CLA (the bottom of the LBL BSD-3 license):
 ### 2.5 Use a standard layout for the repository 
 You can look up standard project layouts for the programming language you are using. Some details of the layout may depend on the tools you are using for other tasks such as code distribution or continuous integration. An example is shown as:
 
-<img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/layout.png" width="500"/>
+<img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/layout.png" width="300"/>
+
+Files (like setup.py) can help users install the correct dependencies with the correct versions to ensure your software runs smoothly with an example as follows:
+
+<img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/setup.png" width="300"/>
 
 ### 2.5 Add a consistent versioning scheme
 
