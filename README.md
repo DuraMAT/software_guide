@@ -181,3 +181,5 @@ Upload to PyPI, Conda, or other easy install code service.
 Consider submitting to a code-centric journal publication such as [Journal of Open Source Software](https://joss.theoj.org/).
 
 <img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/journal.png" width="300"/>
+
+<img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/pvlib_joss.png" width="500"/>
