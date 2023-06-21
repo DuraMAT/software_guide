@@ -248,7 +248,7 @@ Documents can be deployed at several places (e.g., [Github pages](https://pages.
 Upload to PyPI, Conda, or other easy install code service.
 
 [<img src="https://pypi.org/static/images/logo-large.9f732b5f.svg" width="100"/>](https://pypi.org/)
-<img src="https://docs.conda.io/en/latest/_images/conda_logo.svg" width="150"/>
+[<img src="https://docs.conda.io/en/latest/_images/conda_logo.svg" width="150"/>](https://docs.conda.io/en/latest/)
 
 ### 3.9 Submit to a code-centric journal (optional)
 Consider submitting to a code-centric journal publication such as [Journal of Open Source Software](https://joss.theoj.org/).
