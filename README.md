@@ -15,23 +15,37 @@ To help you share software products effectively, including:
 - Getting you (and DuraMat) more credit for software products
 
 
-## Levels of dissemination 
+## Overview of dissemination levels
 The level of dissemination should depend on the purpose of the software
 
 <img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/levels.png" width="700"/>
 
 
 
-### Level 1
+
+
+## Level 1: 
 
 <img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/level1.svg" width="700"/>
 
 
-### Level 2: Repository used for lifetime of a project 
+### 1.1 Approval for code release 
+Follow Laboratory-specific guidelines for approval to release your code
+
+### 1.2 Inline code documentation
+Example
+
+
+### 1.3 Add README
+
+### 1.4 Add LICENSE
+
+
+## Level 2: Repository used for lifetime of a project 
 
 <img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/level2.svg" width="700"/>
 
 
-### Level 3
+## Level 3: 
 
 <img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/level3.svg" width="700"/>
