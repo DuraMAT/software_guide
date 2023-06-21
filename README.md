@@ -151,8 +151,8 @@ In addition to lab-specific guidelines, ensure that DOE requirements are being m
 
 ### 2.3 Set up a public facing Github repository
 This could be hosted by the project organization, by your institution, or by your research lab. Examples include:
-- github.com/DURAMAT
-- github.com/NREL
+- [github.com/DURAMAT](https://github.com/DURAMAT)
+- [github.com/NREL](https://github.com/NREL)
 
 
 ### 2.4 Additional README components
@@ -173,15 +173,15 @@ You can look up standard project layouts for the programming language you are us
 
 <img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/layout.png" width="300"/>
 
-Files (like setup.py) can help users install the correct dependencies with the correct versions to ensure your software runs smoothly with an example as follows:
-
-<img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/setup.png" width="600"/>
-
 ### 2.7 Add a consistent versioning scheme
 Examples include semantic versioning (v0.0.1) and date-based versioning (v2023.01.25); tools like versioneer may help.
 
 ### 2.8 Ensure your software is easy to install locally
 Ensure your software is easy to install locally, including any necessary dependencies. For example, Python projects may include files such as setup.py or requirements.txt.
+
+Files (like setup.py) can help users install the correct dependencies with the correct versions to ensure your software runs smoothly with an example as follows:
+
+<img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/setup.png" width="600"/>
 
 ### 2.9 Report your software to your funding
 Report your software to your funding program so it can be included in accomplishments
