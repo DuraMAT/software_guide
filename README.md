@@ -33,3 +33,5 @@ The level of dissemination should depend on the purpose of the software
 
 
 ### Level 3
+
+<img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/level3.svg" width="700"/>
