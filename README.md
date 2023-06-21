@@ -14,7 +14,7 @@ To help you share software products effectively, including:
 
 - Getting you (and DuraMat) more credit for software products
 
-***
+
 ## Levels of dissemination 
 The level of dissemination should depend on the purpose of the software
 
@@ -27,7 +27,9 @@ The level of dissemination should depend on the purpose of the software
 <img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/level1.svg" width="700"/>
 
 
-### Level 2
+### Level 2: Repository used for lifetime of a project 
+
+<img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/level2.svg" width="700"/>
 
 
 ### Level 3
