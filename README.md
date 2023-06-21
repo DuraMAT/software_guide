@@ -180,6 +180,12 @@ Upload to PyPI, Conda, or other easy install code service.
 ### 3.8 Submit to a code-centric journal (optional)
 Consider submitting to a code-centric journal publication such as [Journal of Open Source Software](https://joss.theoj.org/).
 
-<img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/journal.png" width="300"/>
+Example of [pvlib on JOSS](https://joss.theoj.org/papers/10.21105/joss.00884): 
 
 <img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/pvlib_joss.png" width="500"/>
+
+Reviews can be done via Github repo:
+
+<img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/git_review.png" width="700"/>
+
+
