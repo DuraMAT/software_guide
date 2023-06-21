@@ -40,10 +40,10 @@ Follow Laboratory-specific guidelines for approval to release your code
 
 ### 1.2 Inline code documentation
 Example of inline code documentation 
-<img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/inline_example.png" width="700"/>
+<img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/inline_example.png" width="600"/>
 
 
-Some notes:
+**Some notes:**
 
  - The formatting of the docstring can depend on if you are autoconverting the docstrings to HTML documentation
 
