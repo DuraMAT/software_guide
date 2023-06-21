@@ -122,20 +122,22 @@ Example of CLA (the bottom of the LBL BSD-3 license):
 (*https://spdx.org/licenses/BSD-3-Clause-LBNL.html*)
 
 
-### 2.5 Use a standard layout for the repository 
+### 2.6 Use a standard layout for the repository 
 You can look up standard project layouts for the programming language you are using. Some details of the layout may depend on the tools you are using for other tasks such as code distribution or continuous integration. An example is shown as:
 
 <img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/layout.png" width="300"/>
 
 Files (like setup.py) can help users install the correct dependencies with the correct versions to ensure your software runs smoothly with an example as follows:
 
-<img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/setup.png" width="300"/>
+<img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/setup.png" width="600"/>
 
-### 2.5 Add a consistent versioning scheme
+### 2.7 Add a consistent versioning scheme
+Examples include semantic versioning (v0.0.1) and date-based versioning (v2023.01.25); tools like versioneer may help.
 
-### 2.5 Ensure your software is easy to install locally
+### 2.8 Ensure your software is easy to install locally
+Ensure your software is easy to install locally, including any necessary dependencies. For example, Python projects may include files such as setup.py or requirements.txt.
 
-### 2.5 Report your software to your funding
+### 2.9 Report your software to your funding
 Report your software to your funding program so it can be included in accomplishments
 
 
