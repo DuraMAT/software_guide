@@ -74,6 +74,8 @@ Example of inline code documentation
     - e.g. GPL/Apache
     - e.g., if you leave DuraMat and work for a company, you may no longer be able to use your own code as companies typically avoid any GPL code
 
+Example of license: 
+
 > BSD 3-Clause License
 > 
 > Copyright 2020-2023 Alliance for Sustainable Energy, LLC
