@@ -8,12 +8,12 @@ Table of content
 
 - [Purposes](#purposes)
 - [Overview of dissemination levels](#overview-of-dissemination-levels)
-- [Level 1:](#level-1)
-    - [1.1 Approval for code release](#11-approval-for-code-release)
-    - [1.2 Inline code documentation](#12-inline-code-documentation)
+- [Level 1: Basic repository to support a document](#level-1-basic-repository-to-support-a-document)
+    - [1.1 Get approval for code release](#11-get-approval-for-code-release)
+    - [1.2 Add inline code documentation](#12-add-inline-code-documentation)
     - [1.3 Add README](#13-add-readme)
     - [1.4 Add LICENSE](#14-add-license)
-- [Level 2: Repository used for lifetime of a project](#level-2-repository-used-for-lifetime-of-a-project)
+- [Level 2: Repository to support an entire project](#level-2-repository-to-support-an-entire-project)
     - [2.1 All Level 1 items](#21-all-level-1-items)
     - [2.2 Ensure that DOE requirements are being met](#22-ensure-that-doe-requirements-are-being-met)
     - [2.3 Set up a public facing Github repository](#23-set-up-a-public-facing-github-repository)
@@ -23,7 +23,7 @@ Table of content
     - [2.7 Add a consistent versioning scheme](#27-add-a-consistent-versioning-scheme)
     - [2.8 Ensure your software is easy to install locally](#28-ensure-your-software-is-easy-to-install-locally)
     - [2.9 Report your software to your funding](#29-report-your-software-to-your-funding)
-- [Level 3:](#level-3)
+- [Level 3: Repository for long-term projects](#level-3-repository-for-long-term-projects)
     - [3.1 All Level 1 items](#31-all-level-1-items)
     - [3.2 All Level 2 items](#32-all-level-2-items)
     - [3.3 Implement a release system](#33-implement-a-release-system)
@@ -63,8 +63,8 @@ Typically, Level 1 repository is used to support and document published analyses
 
 To build up Level 1 repository:
 <!-- TOC tocDepth:2..3 chapterDepth:2..6 -->
-- [1.1 Approval for code release](#11-approval-for-code-release)
-- [1.2 Inline code documentation](#12-inline-code-documentation)
+- [1.1 Get approval for code release](#11-get-approval-for-code-release)
+- [1.2 Add inline code documentation](#12-add-inline-code-documentation)
 - [1.3 Add README](#13-add-readme)
 - [1.4 Add LICENSE](#14-add-license)
 <!-- /TOC -->
@@ -255,11 +255,11 @@ Consider submitting to a code-centric journal publication such as [Journal of Op
 
 Example of [pvlib on JOSS](https://joss.theoj.org/papers/10.21105/joss.00884): 
 
-<img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/pvlib_joss.png" width="500"/>
+<img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/pvlib_joss.png" width="600"/>
 
 Reviews can be done via Github repo:
 
-<img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/git_review.png" width="500"/>
+<img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/git_review.png" width="600"/>
 
 
 ## Some useful links
