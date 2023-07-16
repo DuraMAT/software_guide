@@ -100,13 +100,12 @@ Example of inline code documentation:
 
 - Talk to your lab’s IP / IT departments for guidance
 
-- BSD/MIT licenses are examples of very “open” licenses that allow others to do what they’d like with the software
-    - BSD typically gives some more protection against others using your name to promote their product, e.g. “our commercial product uses
-    - LBL-approved software technology for its analysis” or “uses the same algorithms developed by the brilliant scientist <your_name_here>”
+- [BSD](https://en.wikipedia.org/wiki/BSD_licenses)/[MIT](https://en.wikipedia.org/wiki/MIT_License) licenses are examples of very “open” licenses that allow others to do what they’d like with the software. BSD typically gives some more protection against others using your name to promote their product, e.g.:
+    - “our commercial product uses LBL-approved software technology for its analysis”
+    - “uses the same algorithms developed by the brilliant scientist <your_name_here>”
 
-- Be careful about choosing licenses that require all downstream code to also use the same license
-    - e.g. GPL/Apache
-    - e.g., if you leave DuraMat and work for a company, you may no longer be able to use your own code as companies typically avoid any GPL code
+- Be careful about choosing licenses that require all downstream code to also use the same license, e.g., [GPL](https://www.gnu.org/licenses/gpl-3.0.html)/[Apache](https://www.apache.org/licenses/LICENSE-2.0). 
+- If you leave DuraMat and work for a company, you may no longer be able to use your own code as companies typically avoid any GPL code
 
 Example of license: 
 
