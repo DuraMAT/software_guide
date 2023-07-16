@@ -33,7 +33,6 @@
     - [3.8 Upload to other code services](#38-upload-to-other-code-services)
     - [3.9 Submit to a code-centric journal (optional)](#39-submit-to-a-code-centric-journal-optional)
 - [Some useful links](#some-useful-links)
-- [Contributors](#contributors)
 
 <!-- /TOC -->
 
