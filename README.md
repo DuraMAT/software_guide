@@ -144,6 +144,7 @@ To build up Level 2 repository:
 <!-- /TOC -->
 
 ### 2.1 All Level 1 items
+[Level 1: Basic repository to support a document](#level-1-basic-repository-to-support-a-document)
 
 ### 2.2 Ensure that DOE requirements are being met
 In addition to lab-specific guidelines, ensure that DOE requirements are being met. For example, this likely includes:
@@ -267,6 +268,3 @@ https://michal.karzynski.pl/blog/2019/05/26/python-project-maturity-checklist/
 https://dbader.org/blog/write-a-great-readme-for-your-github-project
 
 https://www.patricksoftwareblog.com/software-development-checklist-for-python-applications/
-
-## Contributors
-Anubhav Jain, Silvana Ovaitt, Cliff Hansen, Robert White, Baojie Li
