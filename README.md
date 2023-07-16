@@ -209,8 +209,10 @@ To build a Level 3 repository:
 <!-- /TOC -->
 
 ### 3.1 All Level 1 items
+[Level 1: Basic repository to support a document](#level-1-basic-repository-to-support-a-document)
 
 ### 3.2 All Level 2 items
+[Level 2: Repository to support an entire project](#level-2-repository-to-support-an-entire-project)
 
 ### 3.3 Implement a release system
 One option is to use Github tags and releases. You can obtain a digital object identifier (DOI) for each release via [Zenodo](https://zenodo.org/):
