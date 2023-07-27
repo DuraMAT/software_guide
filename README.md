@@ -38,6 +38,16 @@
 
 
 ## Purposes
+
+Open approach to knowledge and data sharing in science promotes a more accurate 
+verification of scientific results, reduces duplication of efforts, and makes 
+research more efficient through tools and applications. It also enables 
+inclusivity through more efficient knowledge-creation, transfer, and access to 
+the public. 
+
+Duramat supports open-science and encourages, whenever possible, software 
+products should follow [F.A.I.R. practices](https://www.nature.com/articles/sdata201618)
+
 To help you share software products effectively, including:
 
 - Sharing best practices in software dissemination
