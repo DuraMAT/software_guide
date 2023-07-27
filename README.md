@@ -273,6 +273,13 @@ Reviews can be done via Github repo:
 <img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/git_review.png" width="600"/>
 
 
+### Getting DURAMAT Support
+
+If after reading this guide there are doubts, or you require some more assistance
+to ramp up your software to the proper level or would like us to assess your 
+current completeness, [Contact Us](mailto:ajain@lbl.gov)
+
+
 ## Some useful links
 https://michal.karzynski.pl/blog/2019/05/26/python-project-maturity-checklist/
 
