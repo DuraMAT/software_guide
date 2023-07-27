@@ -178,6 +178,7 @@ Example of CLA (the bottom of the LBL BSD-3 license):
 
 (*https://spdx.org/licenses/BSD-3-Clause-LBNL.html*)
 
+Another example of a [CLA signing instructions](https://github.com/NREL/PV_ICE/blob/main/sign-cla.md) and [CLA file](https://github.com/NREL/PV_ICE/blob/main/cla-1.0.md)
 
 ### 2.6 Use a standard layout for the repository 
 You can look up standard project layouts for the programming language you are using. Some details of the layout may depend on the tools you are using for other tasks such as code distribution or continuous integration. An example is shown as:
