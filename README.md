@@ -32,6 +32,7 @@
     - [3.7 Release large data sets with code](#37-release-large-data-sets-with-code)
     - [3.8 Upload to other code services](#38-upload-to-other-code-services)
     - [3.9 Submit to a code-centric journal (optional)](#39-submit-to-a-code-centric-journal-optional)
+- [Getting DuraMat Support](#getting-duramat-support)
 - [Some useful links](#some-useful-links)
 
 <!-- /TOC -->
@@ -273,7 +274,7 @@ Reviews can be done via Github repo:
 <img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/git_review.png" width="600"/>
 
 
-### Getting DURAMAT Support
+## Getting DuraMat Support
 
 If after reading this guide there are doubts, or you require some more assistance
 to ramp up your software to the proper level or would like us to assess your 
