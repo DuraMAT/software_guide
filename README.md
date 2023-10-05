@@ -116,6 +116,9 @@ Example of inline code documentation:
 
 - Be careful about choosing licenses that require all downstream code to also use the same license, e.g., [GPL](https://www.gnu.org/licenses/gpl-3.0.html)/[Apache](https://www.apache.org/licenses/LICENSE-2.0). 
 - If you leave DuraMat and work for a company, you may no longer be able to use your own code as companies typically avoid any GPL code
+- Some labs may actually discourage or ban versions of such licenses because they contain patent-granting language (e.g., Apache 2.0 and GPL 3.0 for LBL)
+- If you really insist on these licenses, suggest talking to DuraMat program (for impact on industry adoption) as well as your lab’s IPO
+
 
 Example of license: 
 
@@ -251,9 +254,12 @@ Documents can be deployed at several places (e.g., [Github pages](https://pages.
 - Data sets should be formally released into a separate archival repository (project-specific data hub (e.g., [DuraMat Data Hub](https://datahub.duramat.org/)), [Figshare](https://figshare.com/), [Dryad](https://datadryad.org/stash), etc.).
 
 
-- If there are smaller files that are needed for the code, for example for unit tests, document and include these datasets in the repository, provided they have been cleared for release and are not infringing copyright from other sources or NDAs.
+- Include in the repository: smaller files that are needed for the code, for example for unit test or examples, provided they have been cleared for release and are not infringing copyright from other sources or NDAs.
 
-- Do not use links to local files on your computer!
+
+- Remember not to use links to local files on your computer!
+
+- Git and Github are generally not suitable for large files. (Git-LFS (Git Large File System) is intended to solve this, but can be clunky.)
 
 
 ### 3.8 Upload to other code services
@@ -263,7 +269,8 @@ Upload to PyPI, Conda, or other easy install code service.
 [<img src="https://docs.conda.io/en/latest/_images/conda_logo.svg" width="150"/>](https://docs.conda.io/en/latest/)
 
 ### 3.9 Submit to a code-centric journal (optional)
-Consider submitting to a code-centric journal publication such as [Journal of Open Source Software](https://joss.theoj.org/).
+Consider submitting to a code-centric journal publication such as [Journal of Open Source Software](https://joss.theoj.org/). The length of a JOSS paper is 250 – 1000 words, i.e., the entire paper is like a couple of abstracts.
+
 
 Example of [pvlib on JOSS](https://joss.theoj.org/papers/10.21105/joss.00884): 
 
@@ -282,6 +289,8 @@ current completeness, [Contact Us](mailto:ajain@lbl.gov)
 
 
 ## Some useful links
+https://michal.karzynski.pl/blog/2019/05/26/python-project-maturity-checklist/
+
 https://michal.karzynski.pl/blog/2019/05/26/python-project-maturity-checklist/
 
 https://dbader.org/blog/write-a-great-readme-for-your-github-project
