@@ -257,7 +257,21 @@ A code coverage tool (e.g. [coveralls](https://coveralls.io/)) can help establis
 <img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/pvlib.png" width="600"/>
 
 ### 3.5 Check for consistent code formatting
-A format checker (e.g., [pylint](https://pypi.org/project/pylint/) or [Python black](https://pypi.org/project/black/)) can be used to check the formatting of pull requests and/or automatically reformat code
+
+Keeping your code clean: [**pre-commit hooks**](https://pre-commit.com)
+
+- Pre-commit hooks run a series of checks and automated fixes against your code before you commit that code to git
+- For example, pre-commit hooks can:
+    - Auto-fix indentation, trailing spaces, line ending, line length, etc. issues (e.g., via a tool like [black](https://pypi.org/project/black/)). This will essentially free up any energy in the project from code formatting issues
+    - Warn against issues like unused imports, undefined variables, bare ”except” clause, too high code complexity, etc. (via a tool like [flake](https://flake8.pycqa.org/en/latest/))
+- If set up early on, it keeps your code “on track” of clean code
+- It can also be installed and run later, but then you may get a long list of previous code issues to fix
+
+<img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/precommit.png" width="800"/>
+
+Similar checks on Github through Github workflows:
+
+<img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/github_workflows.png" width="800"/>
 
 ### 3.6 Add Documentation pages
 Documents can be deployed at several places (e.g., [Github pages](https://pages.github.com/), [Jupyter books](https://jupyterbook.org/en/stable/intro.html), [readthedocs](https://readthedocs.org/)). Documentation pages should provide:
