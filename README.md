@@ -30,8 +30,9 @@
     - [3.5 Check for consistent code formatting](#35-check-for-consistent-code-formatting)
     - [3.6 Add Documentation pages](#36-add-documentation-pages)
     - [3.7 Release large data sets with code](#37-release-large-data-sets-with-code)
-    - [3.8 Upload to other code services](#38-upload-to-other-code-services)
-    - [3.9 Submit to a code-centric journal (optional)](#39-submit-to-a-code-centric-journal-optional)
+    - [3.8 Auto- and Peer-checking of your repository](#38-auto--and-peer-checking-of-your-repository)
+    - [3.9 Upload to other code services](#39-upload-to-other-code-services)
+    - [3.10 Submit to a code-centric journal (optional)](#310-submit-to-a-code-centric-journal-optional)
 - [Getting DuraMat Support](#getting-duramat-support)
 - [Some useful links](#some-useful-links)
 
@@ -233,8 +234,9 @@ To build a Level 3 repository:
 - [3.5 Check for consistent code formatting](#35-check-for-consistent-code-formatting)
 - [3.6 Add Documentation pages](#36-add-documentation-pages)
 - [3.7 Release large data sets with code](#37-release-large-data-sets-with-code)
-- [3.8 Upload to other code services](#38-upload-to-other-code-services)
-- [3.9 Submit to a code-centric journal (optional)](#39-submit-to-a-code-centric-journal-optional)
+- [3.8 Auto- and Peer-checking of your repository](#38-auto--and-peer-checking-of-your-repository)
+- [3.9 Upload to other code services](#39-upload-to-other-code-services)
+- [3.10 Submit to a code-centric journal (optional)](#310-submit-to-a-code-centric-journal-optional)
 <!-- /TOC -->
 
 ### 3.1 All Level 1 items
@@ -291,20 +293,38 @@ Documents can be deployed at several places (e.g., [Github pages](https://pages.
 
 - Git and Github are generally not suitable for large files. (Git-LFS (Git Large File System) is intended to solve this, but can be clunky.)
 
+### 3.8 Auto- and Peer-checking of your repository
+Auto-checking with Scientific Python’s repo-review
+- You can run a check on your repo using Scientific Python’s repo-review tool
+- Web version may not work, but command line version does.
+- Example of [pvlib](https://github.com/pvlib/pvlib-python):
+<img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/repo_review.png" width="900"/>
 
-### 3.8 Upload to other code services
+Peer-checking with [pyopensci](https://www.pyopensci.org/)
+- It may be a good exercise for larger libraries like pvlib
+- Create an issue here, it will guide you through the [process](https://github.com/pyOpenSci/software-submission/issues/new/choose)
+- If you are nervous or skeptical, one of the options is a “presubmission inquiry” 
+
+
+### 3.9 Upload to other code services
 Upload to PyPI, Conda, or other easy install code service.
 
 [<img src="https://pypi.org/static/images/logo-large.9f732b5f.svg" width="100"/>](https://pypi.org/)
 [<img src="https://docs.conda.io/en/latest/_images/conda_logo.svg" width="150"/>](https://docs.conda.io/en/latest/)
 
-### 3.9 Submit to a code-centric journal (optional)
+### 3.10 Submit to a code-centric journal (optional)
 Consider submitting to a code-centric journal publication such as [Journal of Open Source Software](https://joss.theoj.org/). The length of a JOSS paper is 250 – 1000 words, i.e., the entire paper is like a couple of abstracts.
 
 
 Example of [pvlib on JOSS](https://joss.theoj.org/papers/10.21105/joss.00884): 
 
 <img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/pvlib_joss.png" width="600"/>
+
+Self-checking your work with the [JOSS review checklist](https://joss.readthedocs.io/en/latest/review_checklist.html
+):
+
+<img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/joss_check.png" width="800"/>
+
 
 Reviews can be done via Github repo:
 
