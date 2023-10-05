@@ -189,6 +189,13 @@ You can look up standard project layouts for the programming language you are us
 
 <img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/layout.png" width="300"/>
 
+You can also use the cookiecutter and cruft package to help
+
+- The [**cookiecutter**](https://github.com/cookiecutter/cookiecutter) package will set up different package structures depending on your usage
+- The [**cruft**](https://pypi.org/project/cruft/) package can help you keep things up to date as things change
+
+<img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/cookiecutter.png" width="600"/>
+
 ### 2.7 Add a consistent versioning scheme
 Examples include semantic versioning (v0.0.1) and date-based versioning (v2023.01.25); tools like [versioneer](https://pypi.org/project/versioneer/0.10/) may help.
 
