@@ -196,6 +196,15 @@ You can also use the cookiecutter and cruft package to help
 
 <img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/cookiecutter.png" width="600"/>
 
+You can easily get started with cookiecutter using two command lines:
+```
+pip install cookiecutter
+
+cookiecutter https://github.com/audreyfeldroy/cookiecutter-pypackage.git
+
+```
+<img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/cookiecutter_2lines.png" width="800"/>
+
 ### 2.7 Add a consistent versioning scheme
 Examples include semantic versioning (v0.0.1) and date-based versioning (v2023.01.25); tools like [versioneer](https://pypi.org/project/versioneer/0.10/) may help.
 
