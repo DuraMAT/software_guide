@@ -1,6 +1,6 @@
 
 
-#  Guidelines for the open-source software development
+#  Guidelines for open-source software development
 
 
 <!-- TOC tocDepth:2..3 chapterDepth:2..6 -->
