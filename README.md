@@ -6,6 +6,7 @@
 <!-- TOC tocDepth:2..3 chapterDepth:2..6 -->
 
 - [Purposes](#purposes)
+- [Software products funded by DuraMAT](#software-products-funded-by-duramat)
 - [Overview of dissemination levels](#overview-of-dissemination-levels)
 - [Level 1: Basic repository to support a document](#level-1-basic-repository-to-support-a-document)
     - [1.1 Get approval for code release](#11-get-approval-for-code-release)
@@ -47,8 +48,7 @@ research more efficient through tools and applications. It also enables
 inclusivity through more efficient knowledge-creation, transfer, and access to 
 the public. 
 
-Duramat supports open-science and encourages, whenever possible, software 
-products should follow [F.A.I.R. practices](https://www.nature.com/articles/sdata201618)
+
 
 To help you share software products effectively, including:
 
@@ -60,6 +60,29 @@ To help you share software products effectively, including:
 
 - Getting you (and DuraMat) more credit for software products
 
+
+## Software products funded by DuraMAT
+
+DuraMAT funds many projects that produce software products:
+
+| Project  | Link |
+| -------- | ------- |
+| DuraMat data hub | [https://datahub.duramat.org](https://datahub.duramat.org)|
+| PV Analytics | [https://github.com/pvlib/pvanalytics](https://github.com/pvlib/pvanalyticsPV) |
+| PV Ops   | [https://github.com/sandialabs/pvOps](https://github.com/sandialabs/pvOps)  |
+| VocMax | https://github.com/toddkarin/vocmax |
+| PV Climate Zones | https://github.com/toddkarin/pvcz |
+| PV Vision | https://github.com/hackingmaterials/pv-vision |
+| PV Tools | https://pvtools.lbl.gov/string-length-calculator |
+| PV ARC thickness estimator | https://github.com/DuraMAT/pvarc |
+| PV-terms | https://github.com/DuraMAT/pv-terms |
+| Comparative LCOE calculator | https://www.github.com/NREL/PVLCOE |
+| PV-Pro SDM parameter estimation | https://github.com/DuraMAT/pvpro |
+| IV curve correction | https://github.com/DuraMAT/IVcorrection |
+| WhatsCracking | https://datahub.duramat.org/dataset/whatscracking-application |
+
+Duramat supports open-science and encourages, whenever possible, software 
+products should follow [F.A.I.R. practices](https://www.nature.com/articles/sdata201618)
 
 ## Overview of dissemination levels
 The level of dissemination should depend on the purpose of the software
