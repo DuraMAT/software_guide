@@ -2,6 +2,7 @@
 
 #  Guidelines for open-source software development
 
+<img src="https://github.com/DuraMAT/software_guide/blob/main/doc_img/software_guide_logo.png" width="400"/>
 
 <!-- TOC tocDepth:2..3 chapterDepth:2..6 -->
 
