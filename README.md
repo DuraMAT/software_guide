@@ -70,6 +70,7 @@ DuraMAT funds many projects that produce software products:
 | -------- | ------- |
 | DuraMat data hub | [https://datahub.duramat.org](https://datahub.duramat.org)|
 | PV Analytics | [https://github.com/pvlib/pvanalytics](https://github.com/pvlib/pvanalyticsPV) |
+| PV Degradation Tools | [https://github.com/NREL/PVDegradationTools](https://github.com/NREL/PVDegradationTools)|
 | PV Ops   | [https://github.com/sandialabs/pvOps](https://github.com/sandialabs/pvOps)  |
 | VocMax | https://github.com/toddkarin/vocmax |
 | PV Climate Zones | https://github.com/toddkarin/pvcz |
